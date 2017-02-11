@@ -1,9 +1,12 @@
-# Employee Retention Churn Model
+# Classifying employees as leaving vs staying at the company
 
-Classification Model for Employees leaving/staying at the company.
+The purpose of this project was to identify reasons why good employees leave the company and create an optimal classification model that can determine which employees 
+will stay vs which ones will leave
 
-# About the model
+# Data Cleaning 
 
-Model was developed with x and Y
+The data cleaning steps involved checking for null values, dummifying the categorical variables, and normalizing the dataset.
 
-# Contact
+# Exploratory Data Analysis (EDA)
+
+We next create several various 3-dimensional scatterplots  
