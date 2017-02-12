@@ -11,9 +11,6 @@ The dataset was cleaned by checking for null values, dummifying categorical vari
 
 Multiple graphs and plots were created in attempt to establish relationships in the dataset. In particular, several scatterplots were used to identify the features that were most important for determining which employees would stay/leave (Salary, Promotions, Hours worked, time spent at company).
 
-![EC](/images/Satisfaction_Level vs Evaluation_Level.png)
-
-
 
 # Predictive Modelling
 
